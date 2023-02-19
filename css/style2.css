@@ -28,11 +28,7 @@ ol {
   font-weight: 900;
 }
 
-table
-,
-th
-,
-td {
+table, th, td {
   background-color: #00b4d8;
   border: 3px solid black;
   border-collapse: collapse;
