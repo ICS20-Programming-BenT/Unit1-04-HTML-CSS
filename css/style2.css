@@ -28,8 +28,10 @@ ol {
   font-weight: 900;
 }
 
-table, 
-th, 
+table
+,
+th
+,
 td {
   background-color: #00b4d8;
   border: 3px solid black;
