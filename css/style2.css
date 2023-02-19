@@ -1,35 +1,37 @@
 /* Created by: Ben Thomson
 * Created on: February 18, 2023
-* This CSS file defines the style for more_style.html 
+* This CSS file defines the style for more_style.html
 *ISC20-Unit1-04-HTML-CSS
 */
 
 body {
-  background-color: #CAF0F8;
+  background-color: #caf0f8;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
-  background-color: #00B4D8;
-  color: #03045E;
+  background-color: #00b4d8;
+  color: #03045e;
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #90E0EF;
-  color: #03045E;
+  background-color: #90e0ef;
+  color: #03045e;
   padding: 5px;
 }
 
 ol {
-  background-color: #00B4D8;
+  background-color: #00b4d8;
   line-height: 30px;
   font-weight: 900;
 }
 
-table, th, td {
-  background-color: #00B4D8;
+table, 
+th, 
+td {
+  background-color: #00b4d8;
   border: 3px solid black;
   border-collapse: collapse;
   line-height: 20px;

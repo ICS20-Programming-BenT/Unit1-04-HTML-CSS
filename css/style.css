@@ -1,23 +1,23 @@
 /* Created by: Ben Thomson
 * Created on: February 18, 2023
-* This CSS file defines the style for index.html 
+* This CSS file defines the style for index.html
 *ISC20-Unit1-04-HTML-CSS
 */
 
 body {
-  background-color: #C9ADA7;
+  background-color: #c9ada7;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
-  background-color: #9A8C98;
-  color: #22223B;
+  background-color: #9a8c98;
+  color: #22223b;
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #9A8C98;
-  color: #22223B;
+  background-color: #9a8c98;
+  color: #22223b;
   padding: 5px;
 }
